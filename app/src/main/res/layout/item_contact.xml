@@ -7,7 +7,9 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="90dp"
-        android:background="#ffffff">
+        android:background="#ffffff"
+        android:id="@+id/contactId">
+
 
         <androidx.cardview.widget.CardView
             android:id="@+id/icon_view"
@@ -18,7 +20,7 @@
             app:cardCornerRadius="50dp">
 
             <ImageView
-                android:id="@+id/image1"
+                android:id="@+id/img_icon"
                 android:layout_width="60dp"
                 android:layout_height="60dp"
                 android:scaleType="centerCrop"

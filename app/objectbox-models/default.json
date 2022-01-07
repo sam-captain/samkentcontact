@@ -1,0 +1,74 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:8186235848168639343",
+      "lastPropertyId": "10:8255651753383862755",
+      "name": "Contact",
+      "properties": [
+        {
+          "id": "1:8968792096065075070",
+          "name": "name",
+          "type": 9
+        },
+        {
+          "id": "3:4780265995911928849",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "4:2690402611312802905",
+          "name": "imageUrl",
+          "type": 9
+        },
+        {
+          "id": "5:4350900163976999741",
+          "name": "safCom",
+          "type": 9
+        },
+        {
+          "id": "6:3015279359523773958",
+          "name": "gmail",
+          "type": 9
+        },
+        {
+          "id": "7:2861556757349627612",
+          "name": "phone",
+          "type": 9
+        },
+        {
+          "id": "8:2554417965479922415",
+          "name": "aiTel",
+          "type": 9
+        },
+        {
+          "id": "9:3739218030340902639",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "10:8255651753383862755",
+          "name": "number",
+          "type": 5
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "1:8186235848168639343",
+  "lastIndexId": "0:0",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    7093490510455836643
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

@@ -4,12 +4,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/drawable/background.xml" value="0.2890625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/drawable/dashed.xml" value="0.2890625" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_contact_details.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_contact_form.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_flash_light.xml" value="0.27291666666666664" />
-        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_splash.xml" value="0.21" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/activity_splash_screen.xml" value="0.13854166666666667" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/contact_list.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/fetch_card.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/layout/item_contact.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/menu/appbar_navigation.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/menu/bottom_navigation.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/SamkentApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2890625" />
